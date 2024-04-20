@@ -1,5 +1,5 @@
 # Hello 👋🏽👨🏽‍💻
-Hey, I'm Armand! I'm an iOS Developer who is passionate about building impactful technology, increasing diversity in Tech, and making cool things!
+Hey, I'm mvnd! I'm an iOS Developer who is passionate about building impactful technology, increasing diversity in Tech, and making cool things!
 
 
 Keep up with me online 🌍:
